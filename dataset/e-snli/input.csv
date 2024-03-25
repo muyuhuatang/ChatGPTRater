@@ -1,0 +1,101 @@
+gold_label,Sentence1,Sentence2,Explanation_1
+neutral,This church choir sings to the masses as they sing joyous songs from the book at a church.,The church has cracks in the ceiling.,Not all churches have cracks in the ceiling
+entailment,This church choir sings to the masses as they sing joyous songs from the book at a church.,The church is filled with song.,"""Filled with song"" is a rephrasing of the ""choir sings to the masses."""
+contradiction,This church choir sings to the masses as they sing joyous songs from the book at a church.,A choir singing at a baseball game.,A choir sing some other songs other than book at church during the base play. they cannot see book and play base ball same time.
+neutral,"A woman with a green headscarf, blue shirt and a very big grin.",The woman is young.,the woman could've been old rather than young
+entailment,"A woman with a green headscarf, blue shirt and a very big grin.",The woman is very happy.,a grin suggests hapiness.
+contradiction,"A woman with a green headscarf, blue shirt and a very big grin.",The woman has been shot.,There can be either a woman with a very big grin or a woman who has been shot.
+entailment,An old man with a package poses in front of an advertisement.,A man poses in front of an ad.,"The word "" ad "" is short for the word "" advertisement ""."
+neutral,An old man with a package poses in front of an advertisement.,A man poses in front of an ad for beer.,Not all advertisements are ad for beer.
+contradiction,An old man with a package poses in front of an advertisement.,A man walks by an ad.,The man poses in front of the advertisement therefore he did not walk by it.
+neutral,A statue at a museum that no seems to be looking at.,The statue is offensive and people are mad that it is on display.,Not all statues are ignored because they are offensive.
+entailment,A statue at a museum that no seems to be looking at.,There is a statue that not many people seem to be interested in.,"If no one seems to be looking at a statue, it means not many people interested in."
+contradiction,A statue at a museum that no seems to be looking at.,Tons of people are gathered around the statue.,Either no one is looking at the statue or tons of people are gathered around the statue.
+entailment,A land rover is being driven across a river.,A Land Rover is splashing water as it crosses a river.,A Land Rover being driven across a river implies that water will be splashing as it corsses.
+entailment,A land rover is being driven across a river.,A vehicle is crossing a river.,A land rover is a vehicle.
+contradiction,A land rover is being driven across a river.,A sedan is stuck in the middle of a river.,"A land rover and a sedan are different cars, so these sentences cannot be describing the same event."
+contradiction,A man playing an electric guitar on stage.,A man playing banjo on the floor.,The man can't play on stage if he is on the floor.
+entailment,A man playing an electric guitar on stage.,A man playing guitar on stage.,An electric guitar is a guitar.
+neutral,A man playing an electric guitar on stage.,A man is performing for cash.,it is unknown if the man is performing for cash.
+entailment,A blond-haired doctor and her African american assistant looking threw new medical manuals.,A doctor is looking at a book,A doctor is looking at the new medical manuals.
+contradiction,A blond-haired doctor and her African american assistant looking threw new medical manuals.,A man is eating pb and j,Looking through medical manuals implies that man is not eating pb and j.
+neutral,A blond-haired doctor and her African american assistant looking threw new medical manuals.,A doctor is studying,Answer: Just because the is studying it doesn't mean he is reading medical manuals
+contradiction,"One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",A boy runs into a wall,There are either two people - a girl and another person - or there is a boy.
+entailment,"One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",A tan girl runs leans over an object,If the tan girl is running and leaning over an object then she runs and leans over an object.
+neutral,"One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",A man watches his daughter leap,The man and girl are in relation to each other and not strangers.
+neutral,A young family enjoys feeling ocean waves lap at their feet.,A young man and woman take their child to the beach for the first time.,Just because a young family are by the ocean does not mean they are taking their child there for the first time.
+contradiction,A young family enjoys feeling ocean waves lap at their feet.,A family is out at a restaurant.,"One says the family is inside the restaurant, while the other says they are feeling ocean waves."
+entailment,A young family enjoys feeling ocean waves lap at their feet.,A family is at the beach.,ocean waves implies the beach.
+entailment,A couple walk hand in hand down a street.,A couple is walking together.,If a couple is walking hand in hand it is implied that they are walking together.
+neutral,A couple walk hand in hand down a street.,The couple is married.,Just because the couple is hand in hand doesn't mean they are married.
+contradiction,A couple walk hand in hand down a street.,A couple is sitting on a bench.,The couple cannot be walking and sitting a the same time.
+contradiction,3 young man in hoods standing in the middle of a quiet street facing the camera.,Three people sit by a busy street bareheaded.,One cannot be standing and sitting at the same time. There can either be a quiet street or a busy street.
+entailment,3 young man in hoods standing in the middle of a quiet street facing the camera.,Three hood wearing people pose for a picture.,People that are facing a camera are ready to pose for a picture.
+entailment,3 young man in hoods standing in the middle of a quiet street facing the camera.,Three hood wearing people stand in a street.,3 Man in hoods are hood wearing people.
+entailment,A man reads the paper in a bar with green lighting.,The man is inside.,In a bar means the man could be inside.
+neutral,A man reads the paper in a bar with green lighting.,The man is reading the sportspage.,The man could be reading something other than the sportspage.
+contradiction,A man reads the paper in a bar with green lighting.,The man is climbing a mountain.,One cannot read the paper and climb a mountain simultaneously.
+neutral,Three firefighter come out of subway station.,Three firefighters putting out a fire inside of a subway station.,Firefighters have other responsibilities besides putting out a fire.
+entailment,Three firefighter come out of subway station.,Three firefighters coming up from a subway station.,"If the firefighters come out of the subway, they're coming from it."
+contradiction,Three firefighter come out of subway station.,Three firefighters playing cards inside a fire station.,Coming out of station and playing cards are different things.
+entailment,"A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",A person is near a pile of coconuts.,With a pile of coconuts implies near a pile of coconuts.
+neutral,"A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",A person is selling coconuts.,Just because their are a pile of coconuts nearby that does not mean the person is selling them.
+contradiction,"A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",A person is burning a straw hat.,A person cannot be wearing a straw hat and burning a straw hat simultaneously.
+contradiction,Male in a blue jacket decides to lay in the grass.,The guy in yellow is rolling on the grass,A man wearing blue is not wearing yellow while rolling in the grass involves movement and lay in the grass does not.
+entailment,Male in a blue jacket decides to lay in the grass.,The guy wearing a blue jacket is laying on the green grass,Male is guy.
+neutral,Male in a blue jacket decides to lay in the grass.,The guy wearing a blue jacket is laying on the green grass taking a nap.,You can lay in the grass and not be taking a nap.
+neutral,During calf roping a cowboy calls off his horse.,A first time roper falls off his horse.,It is not implied that the cowboy is a first time roper.
+contradiction,During calf roping a cowboy calls off his horse.,A man ropes a calf successfully.,Man does not necessarily mean cowboy.
+entailment,A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.,A boy is on a playground.,A little boy is playing on a playground.
+neutral,A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.,The boy is playing on the swings after school.,There are many kinds of playground equipment in addition to swings.
+contradiction,A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.,The boy is sitting on the school bus on his way home.,"School buses normally are not located on playgrounds, so a child cannot be playing with playground equipment in a bus."
+neutral,A woman wearing a ball cap squats down to touch the cracked earth.,An archeologist wearing a hat squats to examine the site for a dig,A woman wearing a ball cap is not necessarily be an archaeologist.Just because a woman squats down to touch the cracked earth doesn't necessarily mean that she is going to examine the site for a dig.
+entailment,A woman wearing a ball cap squats down to touch the cracked earth.,A squatting woman wearing a hat touching the ground.,"Cracked earth is a form of the ground, and a ball cap is a type of hat."
+contradiction,A woman wearing a ball cap squats down to touch the cracked earth.,A woman wearing a sun bonnet planting a garden.,A ball cap and a sun bonnet are different things.
+neutral,Two children re laying on a rug with some wooden bricks laid out in a square between them.,Two children are building a brick furnace.,Bricks in a square doesn't mean or imply that the children are building a furnace.
+contradiction,Two children re laying on a rug with some wooden bricks laid out in a square between them.,Two children are playing catch at a park.,The two children can't be laying on a rug at home and playing catch at a park at the same time.
+entailment,Two children re laying on a rug with some wooden bricks laid out in a square between them.,Two children are on a rug.,"When you're laying on a rug, you're on a rug."
+entailment,A man standing in front of a building on the phone as two men to the side pain on the side.,a guy near a building stands by two other men,"Man is guy, and standing in front of a building implies near a building."
+contradiction,A man standing in front of a building on the phone as two men to the side pain on the side.,two girls walk through a hall,It must be either a man or two girls
+neutral,A man standing in front of a building on the phone as two men to the side pain on the side.,a busy man stands with bodyguards,You can not infer he is with bodyguards.
+entailment,"The two young girls are dressed as fairies, and are playing in the leaves outdoors.",Girls are playing outdoors.,"Two young girls, dressed as fairies, are playing outdoors in the leaves."
+contradiction,"The two young girls are dressed as fairies, and are playing in the leaves outdoors.",Two girls play dress up indoors.,The girls cannot be playing outdoors and indoors a the same time.
+neutral,"The two young girls are dressed as fairies, and are playing in the leaves outdoors.",The two girls play in the Autumn.,Playing in the leaves outdoors does not mean that it is Autumn.
+neutral,People jump over a mountain crevasse on a rope.,Some people look visually afraid to jump.,People looking afraid to jump doesn't mean they are jumping over a mountain crevasse.
+entailment,People jump over a mountain crevasse on a rope.,People are jumping outside.,The jumping over the mountain crevasse must be outside.
+contradiction,People jump over a mountain crevasse on a rope.,People slide over a mountain crevasse on a slide.,The people cannot simultaneously jump and slide
+entailment,A snowboarder on a wide plain of snow,A snow field with a snowboarder on it,The snowboarder must be in a snow field if he is on a wide plain of snow.
+neutral,A snowboarder on a wide plain of snow,A snowboarder gliding over a field of snow,Just because a snow boarder is on snow does not mean that he is in motion gliding over the snow.
+neutral,A snowboarder on a wide plain of snow,A snowmobile in a blizzard,A snowboarder would be on a board rather than a snowmobile. It might not have been a blizzard that deposited the wide plain of snow.
+contradiction,An older women tending to a garden.,The lady is cooking dinner,The lady can not be cooking dinner if she is tending to a garden
+neutral,An older women tending to a garden.,The lady is weeding her garden,"You can tend your garden in many ways, she might not be weeding."
+entailment,An older women tending to a garden.,The lady has a garden,Older women is lady.
+contradiction,A man in a black shirt overlooking bike maintenance.,A man destroys a bike.,Overlooking bike maintenance does not lead to destruction of a bike.
+entailment,A man in a black shirt overlooking bike maintenance.,A man watches bike repairs.,Bike repairs and bike maintenance are nearly synonymous.
+neutral,A man in a black shirt overlooking bike maintenance.,A man learns bike maintenance.,"We have no idea if he learns bike maintenance or not, he could just be watching."
+contradiction,A man in a black shirt is looking at a bike in a workshop.,A man is wearing a red shirt,The man can't be wearing a black shirt while wearing a red shirt.
+entailment,A man in a black shirt is looking at a bike in a workshop.,A man is in a black shirt,A man in a black shirt is the same as a man who is in a black shirt.
+neutral,A man in a black shirt is looking at a bike in a workshop.,A man is deciding which bike to buy,"Or the man works in the work shop and is selling the bike, or is inspecting the bike, looking for issues rather than deciding."
+entailment,A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.,A person is in a garage.,"Man is person, and maintenance garage is a type of garage."
+entailment,A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.,A man repairs bicycles.,Looking over a bicycle's rear wheel in the maintenance garage implies that the man repairs bicycles.
+contradiction,A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.,A man waits outside a garage.,The man cannot be both in the garage and outside simultaneously
+contradiction,"Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.",Some people stand around.,The people either sit or stand.
+contradiction,"Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.",People run together.,The people cannot both sit and run simultaneously
+entailment,"Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.",People wait at a station.,People waiting at a station sit on benches.
+entailment,A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.,A child wearing a red top is standing behind a blond headed child,A blond headed child sitting in a wheelbarrow is a blond headed child.
+contradiction,A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.,A child wearing a red top is standing on top of a blond headed child,The child is either standing on top of a blond headed child standing behind him.
+neutral,A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.,A child wearing a red top is standing behind a pretty blond headed child,Not every blond headed child is pretty.
+contradiction,"A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.",A lady sitting on a bench in the park.,The lady is either sitting on a bench or pushing a baby stroller down the street.
+neutral,"A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.",An old lady pushing a stroller down a busy street.,The street doesn't have to be busy and might be empty.
+entailment,"A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.",A person outside pushing a stroller.,Pushing a stroller down the street implies that the person is outside pushing the stroller.
+neutral,A dog jumping for a Frisbee in the snow.,A pet is enjoying a game of fetch with his owner.,The pet can also play a game in the snow.
+contradiction,A dog jumping for a Frisbee in the snow.,A cat washes his face and whiskers with his front paw.,"Dogs and cats are not the same animal, and they are performing different activities: the dog jumps while the cat engages in cleaning himself."
+entailment,A dog jumping for a Frisbee in the snow.,"An animal is outside in the cold weather, playing with a plastic toy.","A dog is a form of animal, for there to be snow it must be cold weather outside, and ""jumping for a frisbee"" is a rephrasing of ""playing with a plastic toy."""
+neutral,People are conversing at a dining table under a canopy.,People at a party are seated for dinner on the lawn.,The people conversing are not necessarily at a party.
+entailment,People are conversing at a dining table under a canopy.,People are talking underneath a covering.,People conversing must be talking.
+contradiction,People are conversing at a dining table under a canopy.,People are screaming at a boxing match.,People cannot be at a dining table and boxing match simultaneously.
+contradiction,A girl playing a violin along with a group of people,A girl is washing a load of laundry.,A girl cannot be washing a load of laundry while playing a violin.
+entailment,A girl playing a violin along with a group of people,A girl is playing an instrument.,playing an instrument is another less detailed way to say playing a violin
+neutral,A girl playing a violin along with a group of people,A group of people are playing in a symphony.,You can not infer they are in a symphony.
+neutral,A woman within an orchestra is playing a violin.,A woman is playing a concert.,Just because a  woman within an orchestra is playing a violin does not mean she is playing a concert.
+entailment,A woman within an orchestra is playing a violin.,A woman is playing the violin.,A woman is playing the violin is part of her description within an orchestra.
